@@ -9,10 +9,6 @@
 - Linkedin -> [Link](https://www.linkedin.com/in/sumon-kanti-dey-96321b10b/)
 - Drop me an email -> [Link](sumonkantidey23@gmail.com)
 
-> Projects
-- Bengali Handwritten Grapheme Detection -> [Link](https://github.com/SumonKantiDey/Draw-Grapheme)
-- Quora Insincere Questions Classification -> [Link](https://github.com/SumonKantiDey/Kaggle-Competitions/tree/master/Quora%20Insincere%20Questions%20Classification)
-
 
 ## Portfolio projects
 
@@ -23,7 +19,7 @@
 
   * __[Quora Insincere Questions Classification](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
   <p align="center">
-        <img src<(https://www.youtube.com/watch?v=wwRHfboC3EU&feature=youtu.be)>="./img/quora_insincere.png" width="400" height="200"/>
+        <a href="https://www.youtube.com/watch?v=wwRHfboC3EU&feature=youtu.be"><img src="./img/quora_insincere.png" width="400" height="200"/>
     </p>
 
  
