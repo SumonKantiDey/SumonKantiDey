@@ -14,7 +14,7 @@
 
   * __[Bengali Handwritten Grapheme Detection](https://github.com/SumonKantiDey/Draw-Grapheme)__:  
      <p align="center">
-        <img src="https://j.gifs.com/p8vPkN.gif" width="400" height="400" />
+        <img src="https://j.gifs.com/p8vPkN.gif" width="400" height="200" />
     </p>
 
   * __[Quora Insincere Questions Classification](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
