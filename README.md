@@ -17,9 +17,10 @@
         <img src="https://j.gifs.com/p8vPkN.gif" width="400" height="200" />
     </p>
 
-  * __[Quora Insincere Questions Classification](https://github.com/AlbertoUAH/polyps-image-segmentation)__:
+  * __[Quora Insincere Questions Classification](https://github.com/SumonKantiDey/Kaggle-Competitions/tree/master/Quora%20Insincere%20Questions%20Classification)__:
   <p align="center">
         <a href="https://www.youtube.com/watch?v=wwRHfboC3EU&feature=youtu.be"><img src="./img/quora_insincere.png" width="400" height="200"/>
     </p>
+
 
  
